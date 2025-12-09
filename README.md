@@ -100,7 +100,7 @@ for real-time attendance automation.
 
 ## 🌐 Connect with Me
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/aman-kushwah  
+🔗 **LinkedIn:** https://www.linkedin.com/in/iamankushwah09      
 🧑‍💻 **GitHub:** https://github.com/iamanKushwah09  
 📩 **Email:** *amankushwah073@gmail.com*
 
