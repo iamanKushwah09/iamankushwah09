@@ -1,20 +1,21 @@
 <!-- Animated Heading -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=32&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aman+Kushwah!;Backend+Developer+%7C+Python+Developer;FastAPI+%2B+PostgreSQL+%2B+MySQL;Data+Science+Enthusiast;Aspiring+Software+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=32&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aman+Kushwah!;Backend+Developer+%7C+Data+Science+Enthusiast;Python+%7C+FastAPI+%7C+PostgreSQL;Machine+Learning+%7C+RAG+%7C+Vector+Databases;Aspiring+Software+Engineer+(BCA+2026)" 
   />
 </h1>
-
 
 ---
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-purple" />
-  <img src="https://img.shields.io/badge/FastAPI-Developer-009688" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Expert-336791" />
-  <img src="https://img.shields.io/badge/MySQL-Database%20Developer-blue" />
-  <img src="https://img.shields.io/badge/RAG-AI%20Integrations-orange" />
+  <img src="https://img.shields.io/badge/Focus-Backend+%26+Data+Science-purple" />
+  <img src="https://img.shields.io/badge/Python-Developer-blue" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database%20Design-336791" />
+  <img src="https://img.shields.io/badge/Vector%20DB-pgvector-orange" />
+  <img src="https://img.shields.io/badge/RAG-AI%20Integrations-yellow" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-blueviolet" />
   <img src="https://img.shields.io/badge/Student-BCA%202026-blue" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iamanKushwah09" />
 </p>
@@ -22,89 +23,120 @@
 ---
 
 ## 💫 About Me
-- 🎓 **BCA Final Year Student — 2026**
+- 🎓 **BCA Student (Final Year – 2026)**
 - 🧑‍💻 **Backend Developer** (Python + FastAPI)
-- 🔥 Passionate about **API Engineering & Real-World Systems**
-- 🗄️ Skilled with **PostgreSQL + MySQL database design**
-- 🧠 Learning **RAG (Retrieval-Augmented Generation)** & AI integrations  
-- 💼 Open to **Internships • Full-time • Freelance Backend Roles**
+- 📊 **Data Science Enthusiast**
+- 🗄️ Strong in **PostgreSQL & MySQL database design**
+- 🤖 Exploring **RAG (Retrieval-Augmented Generation) & Vector Databases**
+- 🌐 Comfortable with **HTML & CSS** for frontend integration
+- 💼 Open to **Internships • Full-time • Freelance roles**
+
+---
+
+## 💼 Internship Experience
+
+### 🧑‍💻 Python Developer Intern  
+**Kloudon Technologies Pvt. Ltd.**  
+*September 2025 – Present*
+
+- Working on Python-based backend modules and data processing
+- Writing optimized SQL queries using **PostgreSQL**
+- Assisting in API development using **FastAPI**
+- Exposure to analytical thinking and real-world datasets
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🔹 **Programming Languages**
+### 🔹 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-### 🔹 **Backend & Frameworks**
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🔹 Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
-### 🔹 **Databases**
+### 🔹 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### 🔹 **AI / RAG Tools**
-`Vector DBs (pgvector)` • `Embeddings` • `RAG Architecture Basics`  
-`Prompt Engineering` • `API Integration with AI Models`
+### 🔹 AI / Data / RAG
+- Machine Learning (Scikit-learn)
+- Data Analysis (Pandas, NumPy)
+- Vector Databases (**pgvector**)
+- RAG Architecture Basics
+- Prompt Engineering
+- AI Model API Integration
 
-### 🔹 **Tools & Platforms**
+### 🔹 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔥 **QR-Based Attendance System**
-A complete backend system using **FastAPI + PostgreSQL + JWT + QR Codes**  
-for real-time attendance automation.
+**Tech:** Python, FastAPI, PostgreSQL, HTML, CSS  
+
+- Developed a complete backend system for attendance automation
+- Implemented QR generation, scanning & JWT-based authentication
+- Designed relational DB schema for secure attendance storage
 
 🔗 **Repo:** https://github.com/iamanKushwah09/qr_based_attendance_system  
 
-✔ Secure Auth  
-✔ QR Generation  
-✔ Scanning System  
-✔ Admin/User Panels  
-✔ Fast REST APIs
+---
+
+### 📌 **Bangalore House Price Prediction**
+**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
+
+- Built a machine-learning model to predict housing prices
+- Performed EDA, feature engineering & regression modeling
+- Visualized correlations affecting real-estate pricing
+
+🔗 **Repo:** https://github.com/iamanKushwah09/Bangalore-House-price-prediction  
 
 ---
 
-## 🧩 Why I'm a Strong Backend Developer
-- ✔ I use **industry-level frameworks** (FastAPI)  
-- ✔ I design **optimized SQL databases** (PostgreSQL + MySQL)  
-- ✔ I build **scalable backend architecture**  
-- ✔ Clean code, modular structure, real-world logic  
-- ✔ Learning **AI + Backend integrations (RAG)** for next-level development  
+## 🧩 Why I’m a Strong Backend + Data-Focused Developer
+- ✔ Industry-level backend development with **FastAPI**
+- ✔ Strong fundamentals in **SQL & data modeling**
+- ✔ Hands-on ML & data analysis projects
+- ✔ Growing expertise in **AI + RAG integrations**
+- ✔ Clean, modular & scalable code practices
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamanKushwah09&show_icons=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamanKushwah09&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamanKushwah09" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamanKushwah09&theme=tokyonight&hide_border=true" height="165px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanKushwah09&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
 
-</div>
 
 ---
 
 ## 🌐 Connect with Me
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/iamankushwah09      
+🔗 **LinkedIn:** https://www.linkedin.com/in/iamankushwah09  
 🧑‍💻 **GitHub:** https://github.com/iamanKushwah09  
-📩 **Email:** *amankushwah073@gmail.com*
+📩 **Email:** amankushwah073@gmail.com  
 
 ---
 
 ## 💛 Thanks for Visiting!
-⭐ **If you like my work, please consider giving a star to my projects!**
+⭐ *If you like my work, please consider giving a star to my projects!*
