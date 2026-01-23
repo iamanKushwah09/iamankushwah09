@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Aman Kushwah  
 
-Frontend Developer focused on building clean, responsive, and user-friendly web interfaces using **HTML, CSS, and JavaScript**.  
-Currently learning **React** and improving real-world UI development skills.
+Frontend / React-focused developer passionate about building clean, responsive, and user-friendly web interfaces using **HTML, CSS, and JavaScript**.  
+Currently learning **React** to create modern, component-based frontend applications and improving real-world UI development skills.
 
 ---
 
 ## 🚀 About Me
 - 🎓 BCA Student (Final Year)
 - 🎨 Frontend / UI Development
-- 🌐 Strong in HTML, CSS, JavaScript
-- ⚛️ Learning React for modern frontend apps
+- 🌐 Strong foundation in HTML, CSS, JavaScript
+- ⚛️ Actively learning React (components, props, state)
 - 🔗 Experience integrating frontend with backend APIs
 - 💼 Open to Frontend / React Developer roles
 
@@ -23,11 +23,19 @@ Currently learning **React** and improving real-world UI development skills.
 </p>
 
 - Responsive Web Design  
+- Component-based UI (learning React)  
 - API Integration (Frontend)
 
 ---
 
-### 💻 Programming (Basics)
+### 🗄️ Databases (Basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+### 💻 Programming (Support)
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
@@ -47,10 +55,10 @@ Currently learning **React** and improving real-world UI development skills.
 **Kloudon Technologies**  
 *September 2025 – Present*
 
-- Developed responsive UI using HTML, CSS, and JavaScript  
-- Integrated frontend components with backend APIs  
+- Developed responsive user interfaces using **HTML, CSS, and JavaScript**  
+- Integrated frontend components with **backend APIs** for dynamic data rendering  
 - Implemented forms, validation, and interactive UI features  
-- Collaborated with backend developers for smooth API communication  
+- Collaborated with backend developers to ensure smooth UI–API communication  
 - Improved UI responsiveness and overall user experience  
 
 ---
@@ -58,7 +66,7 @@ Currently learning **React** and improving real-world UI development skills.
 ## 📌 Featured Repositories
 - 🔹 Frontend UI Projects (HTML, CSS, JavaScript)
 - 🔹 API-integrated Web Interfaces
-- 🔹 Practice projects while learning React
+- 🔹 React practice projects (learning phase)
 
 ---
 
@@ -82,4 +90,4 @@ Currently learning **React** and improving real-world UI development skills.
 ---
 
 ## 💛 Thanks for Visiting!
-⭐ *If you like my frontend work, feel free to star my repositories!*
+⭐ *If you like my frontend / React work, feel free to star my repositories!*
